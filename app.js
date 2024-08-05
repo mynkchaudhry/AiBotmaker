@@ -35,6 +35,7 @@ document
     const fastapiUrl = "http://64.227.160.209/init_company/";
 
 
+
     fetch(fastapiUrl, {
       method: "POST",
       headers: {
